@@ -1,0 +1,9 @@
+streamlit
+transformers
+sentence-transformers
+neo4j
+fpdf
+pandas
+numpy
+langchain
+langchain-community
